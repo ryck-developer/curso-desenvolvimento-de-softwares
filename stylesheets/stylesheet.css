@@ -255,3 +255,8 @@ a {
 @media screen and (max-width: 42em) {
   .site-footer {
     font-size: 0.9rem; } }
+    
+.project-name>h1, h1 {
+    font-size: 35px;
+    line-height: 1.6;
+}
