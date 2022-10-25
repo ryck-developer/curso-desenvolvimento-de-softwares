@@ -260,3 +260,7 @@ a {
     font-size: 35px;
     line-height: 1.6;
 }
+
+.project-name>h2, h2 {
+    font-size: 20px;
+}
