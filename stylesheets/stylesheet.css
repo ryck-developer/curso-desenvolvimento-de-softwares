@@ -103,7 +103,9 @@ a {
 @media screen and (max-width: 42em) {
   .project-tagline {
     font-size: 1.3rem; } }
-
+.project-tagline {
+    margin-top:10px; 
+} 
 .main-content :first-child {
   margin-top: 0; }
 .main-content img {
