@@ -77,22 +77,15 @@ a {
 
 @media screen and (min-width: 64em) {
   .project-name {
-    /* 1 /*
-    font-size: 3.90rem; 
-    line-height: 1.9 !important;
-  } }
+    font-size: 3.25rem; } }
 
 @media screen and (min-width: 42em) and (max-width: 64em) {
   .project-name {
-    /* 2 /*
-    font-size: 2.25rem; 
-    line-height: 1.6 !important;} }
+    font-size: 2.25rem; } }
 
 @media screen and (max-width: 42em) {
   .project-name {
-    /* 2 /*
-    font-size: 3.2rem; 
-    line-height: 1.6 !important;} }
+    font-size: 1.75rem; } }
 
 .project-tagline {
   margin-bottom: 2rem;
@@ -101,20 +94,15 @@ a {
 
 @media screen and (min-width: 64em) {
   .project-tagline {
-    font-size: 1.15rem; } }
+    font-size: 1.25rem; } }
 
 @media screen and (min-width: 42em) and (max-width: 64em) {
   .project-tagline {
-    font-size: 1.18rem; } }
+    font-size: 1.15rem; } }
 
 @media screen and (max-width: 42em) {
   .project-tagline {
-    font-size: 1.3rem; } }
-
-.project-tagline {
-    margin-top:23px;
-    margin-bottom:23px;
-}
+    font-size: 1rem; } }
 
 .main-content :first-child {
   margin-top: 0; }
@@ -255,12 +243,3 @@ a {
 @media screen and (max-width: 42em) {
   .site-footer {
     font-size: 0.9rem; } }
-    
-.project-name>h1, h1 {
-    font-size: 35px;
-    line-height: 1.6;
-}
-
-.project-name>h2, h2 {
-    font-size: 20px;
-}
